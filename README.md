@@ -63,3 +63,5 @@ Explore the **Burger Bounty Food Truck Dashboard** live on ShinyApps.io:
 [**Burger Bounty Dashboard**](https://srinivasminnakanti.shinyapps.io/burgerbounty/)  
 
 This project empowers **Burger Bounty** to thrive in the competitive Hartford, CT food truck scene by making strategic, data-driven decisions for location and pricing.  
+
+![BurgerBounty](https://github.com/user-attachments/assets/7687b306-6753-4927-ab0f-edb652a6a1da)
